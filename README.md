@@ -90,7 +90,7 @@ I specialize in:
 ---
 
 ### 📫 Connect With Me
-- LinkedIn: [https://www.linkedin.com/in/mohamedakbarali/?isSelfProfile=true]
+- LinkedIn: [https://www.linkedin.com/in/mohamedakbarali/]
 - GitHub: [https://github.com/MdAkbar12]
 - Email: [s.mdakbarali@gmail.com]
 

@@ -1,50 +1,73 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=440&lines=Hi%2C+I'm+Your+Name+%F0%9F%91%8B;Full-Stack+Developer;Building+cool+things+with+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AWS+Developer+%7C+Data+Engineer+%7C+Application+Support;10%2B+Years+Experience;Cloud%2C+Data%2C+Production+Support" alt="Typing SVG" />
 </div>
 
-<h1 align="center">Mohamed Akbar Ali</h1>
+<h1 align="center">S. Mohamed Akbar Ali</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data-Engineer-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Chennai%20City-0EA5E9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20to-Projects%20%26%20Collabs-10B981?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS-Developer-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data-Engineer-2DDE98?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Application-Support-007ACC?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamedakbarali/?isSelfProfile=true"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/MdAkbar12"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="s.mdakbarali@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
 
 ### 👋 About Me
-I’m a passionate developer who enjoys building clean, scalable, and user-friendly products.  
-I love turning ideas into working software and continuously learning new technologies.
+Experienced AWS Developer and Data Engineer with 10+ years of expertise in designing, developing, and supporting enterprise applications across banking, insurance, and data migration domains.
 
-- 💻 Interested in: Data Engineering, APIs, SRE and Prod Support.
-- 🎯 Goal: Build impactful solutions that solve real problems
+I specialize in:
+- AWS cloud architecture and production support
+- Data engineering and large-scale ETL/data migration
+- Application troubleshooting, root cause analysis, and incident resolution
+- Automation using Python, PySpark, Lambda, and infrastructure-as-code
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Core Skills
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Amazon Web Services-F7DF1E?style=for-the-badge&logo=Amazon Web Services&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-EMR-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-S3-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Lambda-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/API-Gateway-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/IAM-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/RDS-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dynatrace-000000?style=flat-square&logo=dynatrace&logoColor=white" />
+  <img src="https://img.shields.io/badge/DataDog-632CA6?style=flat-square&logo=datadog&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/ITIL-Agile-Waterfall-4A90E2?style=flat-square" />
 </p>
 
 ---
 
-<!-- ### 🚀 Featured Projects
 
-- [Project 1](https://github.com/yourusername/project1) — Short description of your best project
-- [Project 2](https://github.com/yourusername/project2) — Short description of what it does
-- [Project 3](https://github.com/yourusername/project3) — Short description of your cool app
+### 🌱 Highlights
+- 10+ years of experience in production support, development, and data engineering
+- Strong expertise in AWS services and data processing platforms
+- Practical experience in incident management, remediation, and SLA compliance
+- Skilled in collaborating with clients, stakeholders, and cross-functional teams
+- Strong mentor and team contributor in Agile environments
 
---- -->
+---
 
 ### 📊 GitHub Stats
 
@@ -58,13 +81,19 @@ I love turning ideas into working software and continuously learning new technol
 
 ---
 
-### 🌟 Fun Fact
-I enjoy turning complex ideas into intuitive, elegant experiences — and I’m always learning something new.
+### 🎯 Current Focus
+- AWS modernization and automation
+- Data engineering
+- Application reliability and production support
+- Continuous learning in cloud-native technologies
 
 ---
 
-### 📫 Let’s Connect
-If you want to collaborate, build something, or just talk tech, feel free to reach out.
-
+### 📫 Connect With Me
 - LinkedIn: [https://www.linkedin.com/in/mohamedakbarali/?isSelfProfile=true]
+- GitHub: [https://github.com/MdAkbar12]
 - Email: [s.mdakbarali@gmail.com]
+
+---
+
+> “I enjoy solving real-world business problems with scalable cloud solutions, secure data pipelines, and reliable application support.”

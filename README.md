@@ -54,7 +54,6 @@ I specialize in:
   <img src="https://img.shields.io/badge/Dynatrace-000000?style=flat-square&logo=dynatrace&logoColor=white" />
   <img src="https://img.shields.io/badge/DataDog-632CA6?style=flat-square&logo=datadog&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/ITIL-Agile-Waterfall-4A90E2?style=flat-square" />
 </p>
 
 ---
